@@ -64,5 +64,38 @@
     "pull_lbs": 1100,
     "rode_ft": 203,
     "date": "2026-11-10"
+  },
+  {
+    "windlass_name": "Maxwell RC6 Vertical Stainless Windlass (20–28 Ft Boats)",
+    "slug": "maxwell-rc6-vertical-stainless-windlass-2028-ft-boats-windlass-rode-calculator",
+    "title": "Maxwell RC6 Vertical Stainless Windlass (20–28 Ft Boats) Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (770 lb max pull / 260 lb WLL), HHP anchor weight (20 lbs), 7:1 rode scope (203 ft), and 1/4\" G43 Chain + 1/2\" 8-Plait Nylon sizing for Maxwell RC6 Vertical Stainless Windlass (20–28 Ft Boats).",
+    "loa_ft": 25,
+    "anch_lbs": 20,
+    "pull_lbs": 770,
+    "rode_ft": 203,
+    "date": "2026-11-10"
+  },
+  {
+    "windlass_name": "MaxwellHRC10-8 & HRC10-10 Horizontal All-Chain Windlass",
+    "slug": "maxwellhrc10-8-hrc10-10-horizontal-all-chain-windlass-windlass-rode-calculator",
+    "title": "MaxwellHRC10-8 & HRC10-10 Horizontal All-Chain Windlass Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,540 lb max pull / 510 lb WLL), HHP anchor weight (48 lbs), 7:1 rode scope (210 ft), and 5/16\" or 3/8\" G43 High-Test Chain sizing for MaxwellHRC10-8 & HRC10-10 Horizontal All-Chain Windlass.",
+    "loa_ft": 42,
+    "anch_lbs": 48,
+    "pull_lbs": 1540,
+    "rode_ft": 210,
+    "date": "2026-11-10"
+  },
+  {
+    "windlass_name": "Good F850A & AFD500 Free-Fall Automatic Rope/Chain Windlass",
+    "slug": "good-f850a-afd500-free-fall-automatic-ropechain-windlass-windlass-rode-calculator",
+    "title": "Good F850A & AFD500 Free-Fall Automatic Rope/Chain Windlass Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (900 lb max pull / 300 lb WLL), HHP anchor weight (28 lbs), 7:1 rode scope (203 ft), and 1/4\" G43 Chain + 1/2\" Twisted Nylon sizing for Good F850A & AFD500 Free-Fall Automatic Rope/Chain Windlass.",
+    "loa_ft": 30,
+    "anch_lbs": 28,
+    "pull_lbs": 900,
+    "rode_ft": 203,
+    "date": "2026-11-10"
   }
 ]

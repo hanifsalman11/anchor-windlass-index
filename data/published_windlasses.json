@@ -31,5 +31,38 @@
     "pull_lbs": 700,
     "rode_ft": 203,
     "date": "2026-11-10"
+  },
+  {
+    "windlass_name": "Lewmar V1 / V2 / V3 Vertical Windlass (35–48 Ft Cruisers)",
+    "slug": "lewmar-v1-v2-v3-vertical-windlass-3548-ft-cruisers-windlass-rode-calculator",
+    "title": "Lewmar V1 / V2 / V3 Vertical Windlass (35–48 Ft Cruisers) Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,500 lb max pull / 500 lb WLL), HHP anchor weight (44 lbs), 7:1 rode scope (210 ft), and 5/16\" G43 Chain + 5/8\" 8-Plait Nylon sizing for Lewmar V1 / V2 / V3 Vertical Windlass (35–48 Ft Cruisers).",
+    "loa_ft": 40,
+    "anch_lbs": 44,
+    "pull_lbs": 1500,
+    "rode_ft": 210,
+    "date": "2026-11-10"
+  },
+  {
+    "windlass_name": "Lewmar H2 & H3 Horizontal Gypsy/Capstan Windlass (38–50 Ft)",
+    "slug": "lewmar-h2-h3-horizontal-gypsycapstan-windlass-3850-ft-windlass-rode-calculator",
+    "title": "Lewmar H2 & H3 Horizontal Gypsy/Capstan Windlass (38–50 Ft) Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,900 lb max pull / 630 lb WLL), HHP anchor weight (55 lbs), 7:1 rode scope (210 ft), and 3/8\" G43 Chain + 5/8\" Nylon Rode sizing for Lewmar H2 & H3 Horizontal Gypsy/Capstan Windlass (38–50 Ft).",
+    "loa_ft": 44,
+    "anch_lbs": 55,
+    "pull_lbs": 1900,
+    "rode_ft": 210,
+    "date": "2026-11-10"
+  },
+  {
+    "windlass_name": "Maxwell RC8-6 & RC8-8 Automatic Rope/Chain Windlass",
+    "slug": "maxwell-rc8-6-rc8-8-automatic-ropechain-windlass-windlass-rode-calculator",
+    "title": "Maxwell RC8-6 & RC8-8 Automatic Rope/Chain Windlass Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,100 lb max pull / 370 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" 8-Plait Nylon sizing for Maxwell RC8-6 & RC8-8 Automatic Rope/Chain Windlass.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1100,
+    "rode_ft": 203,
+    "date": "2026-11-10"
   }
 ]

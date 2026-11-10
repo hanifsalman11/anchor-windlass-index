@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WindlassRodeIndex — Boat Electric Anchor Windlass Pull, Anchor Weight & 7:1 Rode Scope Calculator (2026)</title>
+  <meta name="description" content="Calculate exact 12V boat electric anchor windlass working load (3.5x tackle rule), ABYC H-40 HHP anchor weight, calibrated G43 chain gypsy size, and 7:1 rode scope for Lewmar, Maxwell, Rocna, Mantus, and Fortress setups.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/anchor-windlass-index/">
+  <link rel="alternate" type="application/rss+xml" title="WindlassRodeIndex RSS Feed" href="https://hanifsalman11.github.io/anchor-windlass-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-cyan-500 text-slate-950 px-2 py-0.5 rounded font-black">WINDLASS</span>RodeIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Lewmar%2BPro%2BFish%2BElectric%2BAnchor%2BWindlass%2BBoat%2BAnchor%2BChain%2BRode%2BKit&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-cyan-500 hover:bg-cyan-400 text-slate-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Electric Windlasses, Anchors & Chain Rodes on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Boat Electric Windlass Pull, HHP Anchor & 7:1 Rode Scope Database</h1>
+      <p class="text-slate-400 mt-3 text-base sm:text-lg">Select your windlass model, anchor type, or boat length below to calculate 3.5x submerged ground tackle pull capacity, calibrated G43 chain gypsy fitment, and 7:1 rode scope length.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search windlass, anchor, or boat size (e.g. Lewmar Pro-Fish 700, 1000, Maxwell RC8, Rocna 15, Mantus, 32 Ft Boat...)" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-cyan-500">
+      </div>
+    </div>
+
+    <div id="marGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="lewmar-vx1-v700-vertical-stainless-windlass-2232-ft-windlass-rode-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-cyan-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-cyan-500 text-slate-950 px-2.5 py-0.5 rounded">700 lb Pull (25 lb Anchor)</span>
+            <span class="text-xs text-slate-400">28' Boat | 203' Rode</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-cyan-400 transition">Lewmar VX1 / V700 Vertical Stainless Windlass (22–32 Ft)</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact 12V windlass capacity (700 lb max pull / 230 lb WLL), HHP anchor weight (25 lbs), 7:1 rode scope (203 ft), and 1/4" G43 / 6mm DIN766 + 1/2" Rode sizing for Lewmar VX1 / V700 Vertical Stainless Windlass (22–32 Ft).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-cyan-400">Calculate Windlass Pull, Anchor & 7:1 Scope →</span>
+        </a>
+        <a href="lewmar-pro-series-1000-pro-fish-1000-2838-ft-boats-windlass-rode-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-cyan-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-cyan-500 text-slate-950 px-2.5 py-0.5 rounded">1,000 lb Pull (33 lb Anchor)</span>
+            <span class="text-xs text-slate-400">33' Boat | 203' Rode</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-cyan-400 transition">Lewmar Pro-Series 1000 & Pro-Fish 1000 (28–38 Ft Boats)</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16" G43 Chain + 9/16" 8-Plait Nylon sizing for Lewmar Pro-Series 1000 & Pro-Fish 1000 (28–38 Ft Boats).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-cyan-400">Calculate Windlass Pull, Anchor & 7:1 Scope →</span>
+        </a>
+        <a href="lewmar-pro-series-700-pro-fish-700-2028-ft-boats-windlass-rode-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-cyan-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-cyan-500 text-slate-950 px-2.5 py-0.5 rounded">700 lb Pull (22 lb Anchor)</span>
+            <span class="text-xs text-slate-400">26' Boat | 203' Rode</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-cyan-400 transition">Lewmar Pro-Series 700 & Pro-Fish 700 (20–28 Ft Boats)</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact 12V windlass capacity (700 lb max pull / 230 lb WLL), HHP anchor weight (22 lbs), 7:1 rode scope (203 ft), and 1/4" G43 Chain + 1/2" 3-Strand/8-Plait sizing for Lewmar Pro-Series 700 & Pro-Fish 700 (20–28 Ft Boats).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-cyan-400">Calculate Windlass Pull, Anchor & 7:1 Scope →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500">
+    <p>© 2026 WindlassRodeIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('marGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

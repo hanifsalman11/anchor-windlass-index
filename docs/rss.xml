@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WindlassRodeIndex Boat Electric Windlass & Ground Tackle Database</title>
+    <link>https://hanifsalman11.github.io/anchor-windlass-index/</link>
+    <description>Interactive Boat Electric Anchor Windlass Pull, HHP Anchor Weight & 7:1 Rode Scope Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/anchor-windlass-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>Lewmar VX1 / V700 Vertical Stainless Windlass (22–32 Ft) Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/anchor-windlass-index/lewmar-vx1-v700-vertical-stainless-windlass-2232-ft-windlass-rode-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/anchor-windlass-index/lewmar-vx1-v700-vertical-stainless-windlass-2232-ft-windlass-rode-calculator.html</guid>
+      <description>Calculate exact 12V windlass capacity (700 lb max pull / 230 lb WLL), HHP anchor weight (25 lbs), 7:1 rode scope (203 ft), and 1/4" G43 / 6mm DIN766 + 1/2" Rode sizing for Lewmar VX1 / V700 Vertical Stainless Windlass (22–32 Ft).</description>
+    </item>
+    <item>
+      <title>Lewmar Pro-Series 1000 & Pro-Fish 1000 (28–38 Ft Boats) Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/anchor-windlass-index/lewmar-pro-series-1000-pro-fish-1000-2838-ft-boats-windlass-rode-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/anchor-windlass-index/lewmar-pro-series-1000-pro-fish-1000-2838-ft-boats-windlass-rode-calculator.html</guid>
+      <description>Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16" G43 Chain + 9/16" 8-Plait Nylon sizing for Lewmar Pro-Series 1000 & Pro-Fish 1000 (28–38 Ft Boats).</description>
+    </item>
+    <item>
+      <title>Lewmar Pro-Series 700 & Pro-Fish 700 (20–28 Ft Boats) Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/anchor-windlass-index/lewmar-pro-series-700-pro-fish-700-2028-ft-boats-windlass-rode-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/anchor-windlass-index/lewmar-pro-series-700-pro-fish-700-2028-ft-boats-windlass-rode-calculator.html</guid>
+      <description>Calculate exact 12V windlass capacity (700 lb max pull / 230 lb WLL), HHP anchor weight (22 lbs), 7:1 rode scope (203 ft), and 1/4" G43 Chain + 1/2" 3-Strand/8-Plait sizing for Lewmar Pro-Series 700 & Pro-Fish 700 (20–28 Ft Boats).</description>
+    </item>
+  </channel>
+</rss>

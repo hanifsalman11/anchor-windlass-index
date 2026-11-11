@@ -130,5 +130,38 @@
     "pull_lbs": 650,
     "rode_ft": 203,
     "date": "2026-11-11"
+  },
+  {
+    "windlass_name": "Trac Outdoor Fisherman 25 & Pontoon 35 Electric Anchor Winch",
+    "slug": "trac-outdoor-fisherman-25-pontoon-35-electric-anchor-winch-windlass-rode-calculator",
+    "title": "Trac Outdoor Fisherman 25 & Pontoon 35 Electric Anchor Winch Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (350 lb max pull / 120 lb WLL), HHP anchor weight (15 lbs), 7:1 rode scope (203 ft), and 3/16\" Braided Anchor Line (100ft) sizing for Trac Outdoor Fisherman 25 & Pontoon 35 Electric Anchor Winch.",
+    "loa_ft": 20,
+    "anch_lbs": 15,
+    "pull_lbs": 350,
+    "rode_ft": 203,
+    "date": "2026-11-11"
+  },
+  {
+    "windlass_name": "Minn Kota DeckHand 40 Pontoon & Fishing Boat Anchor Winch",
+    "slug": "minn-kota-deckhand-40-pontoon-fishing-boat-anchor-winch-windlass-rode-calculator",
+    "title": "Minn Kota DeckHand 40 Pontoon & Fishing Boat Anchor Winch Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (400 lb max pull / 130 lb WLL), HHP anchor weight (20 lbs), 7:1 rode scope (203 ft), and 100ft Pre-Spooled 800-lb Nylon Cord sizing for Minn Kota DeckHand 40 Pontoon & Fishing Boat Anchor Winch.",
+    "loa_ft": 21,
+    "anch_lbs": 20,
+    "pull_lbs": 400,
+    "rode_ft": 203,
+    "date": "2026-11-11"
+  },
+  {
+    "windlass_name": "Rocna Original & Vulcan 15 kg (33 Lb) Anchor + Windlass Sizing",
+    "slug": "rocna-original-vulcan-15-kg-33-lb-anchor-windlass-sizing-windlass-rode-calculator",
+    "title": "Rocna Original & Vulcan 15 kg (33 Lb) Anchor + Windlass Sizing Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" Nylon Rode sizing for Rocna Original & Vulcan 15 kg (33 Lb) Anchor + Windlass Sizing.",
+    "loa_ft": 34,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-11"
   }
 ]

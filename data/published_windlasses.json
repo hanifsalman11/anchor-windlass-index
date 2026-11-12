@@ -163,5 +163,38 @@
     "pull_lbs": 1000,
     "rode_ft": 203,
     "date": "2026-11-11"
+  },
+  {
+    "windlass_name": "Rocna 10 kg (22 Lb) vs 20 kg (44 Lb) Boat Anchor Sizing",
+    "slug": "rocna-10-kg-22-lb-vs-20-kg-44-lb-boat-anchor-sizing-windlass-rode-calculator",
+    "title": "Rocna 10 kg (22 Lb) vs 20 kg (44 Lb) Boat Anchor Sizing Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (850 lb max pull / 280 lb WLL), HHP anchor weight (22 lbs), 7:1 rode scope (203 ft), and 1/4\" or 5/16\" G43 Chain + 1/2\" Rode sizing for Rocna 10 kg (22 Lb) vs 20 kg (44 Lb) Boat Anchor Sizing.",
+    "loa_ft": 30,
+    "anch_lbs": 22,
+    "pull_lbs": 850,
+    "rode_ft": 203,
+    "date": "2026-11-12"
+  },
+  {
+    "windlass_name": "Mantus M1 & M2 (25 Lb / 35 Lb / 45 Lb) Roll-Bar Anchor Sizing",
+    "slug": "mantus-m1-m2-25-lb-35-lb-45-lb-roll-bar-anchor-sizing-windlass-rode-calculator",
+    "title": "Mantus M1 & M2 (25 Lb / 35 Lb / 45 Lb) Roll-Bar Anchor Sizing Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,100 lb max pull / 370 lb WLL), HHP anchor weight (35 lbs), 7:1 rode scope (210 ft), and 5/16\" G43 Chain + 9/16\" 8-Plait sizing for Mantus M1 & M2 (25 Lb / 35 Lb / 45 Lb) Roll-Bar Anchor Sizing.",
+    "loa_ft": 35,
+    "anch_lbs": 35,
+    "pull_lbs": 1100,
+    "rode_ft": 210,
+    "date": "2026-11-12"
+  },
+  {
+    "windlass_name": "Lewmar Delta (14 Lb / 22 Lb / 35 Lb) Plow Anchor Sizing",
+    "slug": "lewmar-delta-14-lb-22-lb-35-lb-plow-anchor-sizing-windlass-rode-calculator",
+    "title": "Lewmar Delta (14 Lb / 22 Lb / 35 Lb) Plow Anchor Sizing Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (22 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" Nylon Rode sizing for Lewmar Delta (14 Lb / 22 Lb / 35 Lb) Plow Anchor Sizing.",
+    "loa_ft": 32,
+    "anch_lbs": 22,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-12"
   }
 ]

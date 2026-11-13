@@ -262,5 +262,38 @@
     "pull_lbs": 1000,
     "rode_ft": 203,
     "date": "2026-11-13"
+  },
+  {
+    "windlass_name": "36-Foot Cruising Sailboat & Trawler Anchor & Windlass",
+    "slug": "36-foot-cruising-sailboat-trawler-anchor-windlass-windlass-rode-calculator",
+    "title": "36-Foot Cruising Sailboat & Trawler Anchor & Windlass Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,250 lb max pull / 420 lb WLL), HHP anchor weight (44 lbs), 7:1 rode scope (210 ft), and 5/16\" G43 Chain + 5/8\" 8-Plait sizing for 36-Foot Cruising Sailboat & Trawler Anchor & Windlass.",
+    "loa_ft": 36,
+    "anch_lbs": 44,
+    "pull_lbs": 1250,
+    "rode_ft": 210,
+    "date": "2026-11-13"
+  },
+  {
+    "windlass_name": "42-Foot Catamaran & Flybridge Yacht Windlass & Chain Sizing",
+    "slug": "42-foot-catamaran-flybridge-yacht-windlass-chain-sizing-windlass-rode-calculator",
+    "title": "42-Foot Catamaran & Flybridge Yacht Windlass & Chain Sizing Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,650 lb max pull / 550 lb WLL), HHP anchor weight (55 lbs), 7:1 rode scope (210 ft), and 3/8\" G43 High-Test All-Chain Rode sizing for 42-Foot Catamaran & Flybridge Yacht Windlass & Chain Sizing.",
+    "loa_ft": 42,
+    "anch_lbs": 55,
+    "pull_lbs": 1650,
+    "rode_ft": 210,
+    "date": "2026-11-13"
+  },
+  {
+    "windlass_name": "50-Foot Offshore Motor Yacht & Sailboat Windlass Sizing",
+    "slug": "50-foot-offshore-motor-yacht-sailboat-windlass-sizing-windlass-rode-calculator",
+    "title": "50-Foot Offshore Motor Yacht & Sailboat Windlass Sizing Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (2,200 lb max pull / 730 lb WLL), HHP anchor weight (73 lbs), 7:1 rode scope (210 ft), and 3/8\" G43 High-Test All-Chain Rode sizing for 50-Foot Offshore Motor Yacht & Sailboat Windlass Sizing.",
+    "loa_ft": 50,
+    "anch_lbs": 73,
+    "pull_lbs": 2200,
+    "rode_ft": 210,
+    "date": "2026-11-13"
   }
 ]

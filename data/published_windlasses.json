@@ -361,5 +361,38 @@
     "pull_lbs": 1000,
     "rode_ft": 203,
     "date": "2026-11-14"
+  },
+  {
+    "windlass_name": "6X6 Post Base",
+    "slug": "6x6-post-base-windlass-rode-calculator",
+    "title": "6X6 Post Base Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" Rode sizing for 6X6 Post Base.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-14"
+  },
+  {
+    "windlass_name": "17 Foot Boat",
+    "slug": "17-foot-boat-windlass-rode-calculator",
+    "title": "17 Foot Boat Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" Rode sizing for 17 Foot Boat.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-14"
+  },
+  {
+    "windlass_name": "My Boat",
+    "slug": "my-boat-windlass-rode-calculator",
+    "title": "My Boat Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" Rode sizing for My Boat.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-14"
   }
 ]

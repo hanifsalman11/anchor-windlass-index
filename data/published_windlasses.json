@@ -394,5 +394,38 @@
     "pull_lbs": 1000,
     "rode_ft": 203,
     "date": "2026-11-14"
+  },
+  {
+    "windlass_name": "24 Foot Boat",
+    "slug": "24-foot-boat-windlass-rode-calculator",
+    "title": "24 Foot Boat Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (700 lb max pull / 230 lb WLL), HHP anchor weight (22 lbs), 7:1 rode scope (203 ft), and 1/4\" G43 Chain + 1/2\" Rode sizing for 24 Foot Boat.",
+    "loa_ft": 24,
+    "anch_lbs": 22,
+    "pull_lbs": 700,
+    "rode_ft": 203,
+    "date": "2026-11-15"
+  },
+  {
+    "windlass_name": "#8 Screw",
+    "slug": "8-screw-windlass-rode-calculator",
+    "title": "#8 Screw Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" Rode sizing for #8 Screw.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-15"
+  },
+  {
+    "windlass_name": "16 Foot Boat",
+    "slug": "16-foot-boat-windlass-rode-calculator",
+    "title": "16 Foot Boat Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" Rode sizing for 16 Foot Boat.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-15"
   }
 ]

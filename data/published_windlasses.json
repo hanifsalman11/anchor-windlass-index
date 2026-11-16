@@ -460,5 +460,38 @@
     "pull_lbs": 1000,
     "rode_ft": 203,
     "date": "2026-11-15"
+  },
+  {
+    "windlass_name": "What  Wire  Windlass",
+    "slug": "what-wire-windlass-windlass-rode-calculator",
+    "title": "What  Wire  Windlass Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" Rode sizing for What  Wire  Windlass.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-16"
+  },
+  {
+    "windlass_name": "What  Breaker  Windlass",
+    "slug": "what-breaker-windlass-windlass-rode-calculator",
+    "title": "What  Breaker  Windlass Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" Rode sizing for What  Breaker  Windlass.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-16"
+  },
+  {
+    "windlass_name": "What  Chain  Lewmar Windlass",
+    "slug": "what-chain-lewmar-windlass-windlass-rode-calculator",
+    "title": "What  Chain  Lewmar Windlass Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" Rode sizing for What  Chain  Lewmar Windlass.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-16"
   }
 ]

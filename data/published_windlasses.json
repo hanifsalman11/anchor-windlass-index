@@ -559,5 +559,38 @@
     "pull_lbs": 1000,
     "rode_ft": 203,
     "date": "2026-11-17"
+  },
+  {
+    "windlass_name": "Lewmar Pro Fish 700 Parts Diagram",
+    "slug": "lewmar-pro-fish-700-parts-diagram-windlass-rode-calculator",
+    "title": "Lewmar Pro Fish 700 Parts Diagram Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" Rode sizing for Lewmar Pro Fish 700 Parts Diagram.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-17"
+  },
+  {
+    "windlass_name": "Lewmar Pro Fish Windlass Troubleshooting",
+    "slug": "lewmar-pro-fish-windlass-troubleshooting-windlass-rode-calculator",
+    "title": "Lewmar Pro Fish Windlass Troubleshooting Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" Rode sizing for Lewmar Pro Fish Windlass Troubleshooting.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-17"
+  },
+  {
+    "windlass_name": "Lewmar Pro Fish 1000 Installation",
+    "slug": "lewmar-pro-fish-1000-installation-windlass-rode-calculator",
+    "title": "Lewmar Pro Fish 1000 Installation Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" Rode sizing for Lewmar Pro Fish 1000 Installation.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-17"
   }
 ]

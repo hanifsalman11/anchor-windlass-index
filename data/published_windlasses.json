@@ -625,5 +625,16 @@
     "pull_lbs": 650,
     "rode_ft": 203,
     "date": "2026-11-19"
+  },
+  {
+    "windlass_name": "22-Ft Center Console Anchoring in 60-Ft Offshore Shelf Depth",
+    "slug": "22-ft-center-console-anchoring-in-60-ft-offshore-shelf-depth-windlass-rode-calculator",
+    "title": "22-Ft Center Console Anchoring in 60-Ft Offshore Shelf Depth Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (650 lb max pull / 220 lb WLL), HHP anchor weight (16 lbs), 7:1 rode scope (203 ft), and 1/4\" G43 Chain + 1/2\" Nylon sizing for 22-Ft Center Console Anchoring in 60-Ft Offshore Shelf Depth.",
+    "loa_ft": 22,
+    "anch_lbs": 16,
+    "pull_lbs": 650,
+    "rode_ft": 203,
+    "date": "2026-11-19"
   }
 ]

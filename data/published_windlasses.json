@@ -636,5 +636,16 @@
     "pull_lbs": 650,
     "rode_ft": 203,
     "date": "2026-11-19"
+  },
+  {
+    "windlass_name": "25-Ft Walkaround / Pilothouse Anchoring in 15-Ft Coastal Anchorage",
+    "slug": "25-ft-walkaround-pilothouse-anchoring-in-15-ft-coastal-anchorage-windlass-rode-calculator",
+    "title": "25-Ft Walkaround / Pilothouse Anchoring in 15-Ft Coastal Anchorage Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (700 lb max pull / 230 lb WLL), HHP anchor weight (22 lbs), 7:1 rode scope (203 ft), and 1/4\" G43 Chain + 1/2\" Nylon sizing for 25-Ft Walkaround / Pilothouse Anchoring in 15-Ft Coastal Anchorage.",
+    "loa_ft": 25,
+    "anch_lbs": 22,
+    "pull_lbs": 700,
+    "rode_ft": 203,
+    "date": "2026-11-20"
   }
 ]

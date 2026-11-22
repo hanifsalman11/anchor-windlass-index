@@ -680,5 +680,16 @@
     "pull_lbs": 700,
     "rode_ft": 203,
     "date": "2026-11-21"
+  },
+  {
+    "windlass_name": "28-Ft Offshore Fishing Boat Anchoring in 15-Ft Coastal Anchorage",
+    "slug": "28-ft-offshore-fishing-boat-anchoring-in-15-ft-coastal-anchorage-windlass-rode-calculator",
+    "title": "28-Ft Offshore Fishing Boat Anchoring in 15-Ft Coastal Anchorage Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (850 lb max pull / 280 lb WLL), HHP anchor weight (25 lbs), 7:1 rode scope (203 ft), and 1/4\" G43 Chain + 1/2\" 8-Plait sizing for 28-Ft Offshore Fishing Boat Anchoring in 15-Ft Coastal Anchorage.",
+    "loa_ft": 28,
+    "anch_lbs": 25,
+    "pull_lbs": 850,
+    "rode_ft": 203,
+    "date": "2026-11-22"
   }
 ]

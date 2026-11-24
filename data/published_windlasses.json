@@ -735,5 +735,16 @@
     "pull_lbs": 1000,
     "rode_ft": 203,
     "date": "2026-11-24"
+  },
+  {
+    "windlass_name": "32-Ft Express Cruiser / Sailboat Anchoring in 25-Ft Bay & Reef Depth",
+    "slug": "32-ft-express-cruiser-sailboat-anchoring-in-25-ft-bay-reef-depth-windlass-rode-calculator",
+    "title": "32-Ft Express Cruiser / Sailboat Anchoring in 25-Ft Bay & Reef Depth Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" 8-Plait sizing for 32-Ft Express Cruiser / Sailboat Anchoring in 25-Ft Bay & Reef Depth.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-24"
   }
 ]

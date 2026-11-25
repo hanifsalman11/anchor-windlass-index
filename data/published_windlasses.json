@@ -757,5 +757,38 @@
     "pull_lbs": 1000,
     "rode_ft": 203,
     "date": "2026-11-25"
+  },
+  {
+    "windlass_name": "1/4 Screw",
+    "slug": "14-screw-windlass-rode-calculator",
+    "title": "1/4 Screw Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" Rode sizing for 1/4 Screw.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-25"
+  },
+  {
+    "windlass_name": "22 Foot Pontoon",
+    "slug": "22-foot-pontoon-windlass-rode-calculator",
+    "title": "22 Foot Pontoon Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (700 lb max pull / 230 lb WLL), HHP anchor weight (22 lbs), 7:1 rode scope (203 ft), and 1/4\" G43 Chain + 1/2\" Rode sizing for 22 Foot Pontoon.",
+    "loa_ft": 22,
+    "anch_lbs": 22,
+    "pull_lbs": 700,
+    "rode_ft": 203,
+    "date": "2026-11-25"
+  },
+  {
+    "windlass_name": "32-Ft Express Cruiser / Sailboat Anchoring in 60-Ft Offshore Shelf Depth",
+    "slug": "32-ft-express-cruiser-sailboat-anchoring-in-60-ft-offshore-shelf-depth-windlass-rode-calculator",
+    "title": "32-Ft Express Cruiser / Sailboat Anchoring in 60-Ft Offshore Shelf Depth Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,000 lb max pull / 330 lb WLL), HHP anchor weight (33 lbs), 7:1 rode scope (203 ft), and 5/16\" G43 Chain + 9/16\" 8-Plait sizing for 32-Ft Express Cruiser / Sailboat Anchoring in 60-Ft Offshore Shelf Depth.",
+    "loa_ft": 32,
+    "anch_lbs": 33,
+    "pull_lbs": 1000,
+    "rode_ft": 203,
+    "date": "2026-11-25"
   }
 ]

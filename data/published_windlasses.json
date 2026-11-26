@@ -812,5 +812,16 @@
     "pull_lbs": 1250,
     "rode_ft": 210,
     "date": "2026-11-26"
+  },
+  {
+    "windlass_name": "36-Ft Trawler / Monohull Sailboat Anchoring in 25-Ft Bay & Reef Depth",
+    "slug": "36-ft-trawler-monohull-sailboat-anchoring-in-25-ft-bay-reef-depth-windlass-rode-calculator",
+    "title": "36-Ft Trawler / Monohull Sailboat Anchoring in 25-Ft Bay & Reef Depth Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,250 lb max pull / 420 lb WLL), HHP anchor weight (44 lbs), 7:1 rode scope (210 ft), and 5/16\" G43 Chain + 5/8\" 8-Plait sizing for 36-Ft Trawler / Monohull Sailboat Anchoring in 25-Ft Bay & Reef Depth.",
+    "loa_ft": 36,
+    "anch_lbs": 44,
+    "pull_lbs": 1250,
+    "rode_ft": 210,
+    "date": "2026-11-26"
   }
 ]

@@ -845,5 +845,16 @@
     "pull_lbs": 1250,
     "rode_ft": 210,
     "date": "2026-11-27"
+  },
+  {
+    "windlass_name": "40-Ft Cruising Catamaran / Yacht Anchoring in 15-Ft Coastal Anchorage",
+    "slug": "40-ft-cruising-catamaran-yacht-anchoring-in-15-ft-coastal-anchorage-windlass-rode-calculator",
+    "title": "40-Ft Cruising Catamaran / Yacht Anchoring in 15-Ft Coastal Anchorage Windlass Pull, Anchor Size & 7:1 Rode Scope Calculator (2026)",
+    "description": "Calculate exact 12V windlass capacity (1,500 lb max pull / 500 lb WLL), HHP anchor weight (48 lbs), 7:1 rode scope (210 ft), and 3/8\" G43 Chain + 5/8\" 8-Plait sizing for 40-Ft Cruising Catamaran / Yacht Anchoring in 15-Ft Coastal Anchorage.",
+    "loa_ft": 40,
+    "anch_lbs": 48,
+    "pull_lbs": 1500,
+    "rode_ft": 210,
+    "date": "2026-11-28"
   }
 ]
